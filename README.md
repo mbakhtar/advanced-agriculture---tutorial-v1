@@ -5,8 +5,8 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [Advanced Agriculture Tutorial with images and Gif](https://makecode.microbit.org/#tutorial:47047-41021-31096-65750)
-* open [Advanced Agriculture Tutorial with Block Rendering](https://makecode.microbit.org/#tutorial:66778-74308-72583-95275)
+* open [Advanced Agriculture Tutorial Makecode Editor with images and Gif](https://makecode.microbit.org/#tutorial:47047-41021-31096-65750)
+* open [Advanced Agriculture Tutorial Makecode Editor with Block Rendering](https://makecode.microbit.org/#tutorial:66778-74308-72583-95275)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/advanced-agriculture---tutorial-v1** and import
