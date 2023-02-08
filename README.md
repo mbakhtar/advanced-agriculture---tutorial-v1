@@ -1,5 +1,5 @@
 
-> Open this page at [https://mbakhtar.github.io/advanced-agriculture---tutorial-v1/](https://mbakhtar.github.io/advanced-agriculture---tutorial-v1/)
+> Open this page at [Advanced Agriculture Basic Tutorial v1/](https://mbakhtar.github.io/advanced-agriculture---tutorial-v1/)
 
 ## Use as Extension
 
