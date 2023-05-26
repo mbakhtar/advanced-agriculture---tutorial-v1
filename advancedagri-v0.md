@@ -4,7 +4,7 @@
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
 ![Adding Land Extensions](https://raw.githubusercontent.com/mbakhtar/plants-and-pollinators---tutorial-v001/master/add-extensions.gif)
-## @showhint
+## 
 ![Button A](https://raw.githubusercontent.com/mbakhtar/advanced-agriculture---tutorial-v1/master/images/On%20Button%20A%20Pressed.png)
 ## @showhint
 ![Button A Show Icon](https://raw.githubusercontent.com/mbakhtar/advanced-agriculture---tutorial-v1/master/images/On%20Button%20A%20Pressed%20with%20Show%20Icon.png)
